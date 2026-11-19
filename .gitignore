@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Figures et résultats générés par les scripts
+fig_*.png
+fig_*.jpg
+*_plot.jpg
+figures_fractales/
+figures_fractales_*/
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
